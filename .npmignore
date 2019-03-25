@@ -1,4 +1,5 @@
 *
+!/src/**
 !/lib/**
 !/lib/shared
 !/lib/mysql
